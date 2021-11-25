@@ -1,0 +1,27 @@
+{
+  "casa": [],
+  "cadastro": [
+    {
+      "usuario": "Adriano",
+      "senha": "123456",
+      "email": "",
+      "cpf": "41295639807",
+      "nome": "Santos",
+      "dataNasc": "2021-11-25",
+      "telefone": "14988060412",
+      "id": 1
+    },
+    {
+      "usuario": "Jose",
+      "senha": "123456",
+      "email": "",
+      "cpf": "43595643352",
+      "nome": "Augusto",
+      "dataNasc": "2021-11-10",
+      "telefone": "14999989990",
+      "id": 2
+    }
+  ],
+  "compra": [],
+  "evento": []
+}
